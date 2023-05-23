@@ -1,0 +1,30 @@
+.header {
+  margin-top: 45px;
+  max-width: 880px;
+}
+
+.header::after {
+  content: "";
+  display: block;
+  border-bottom: 1px solid rgba(84, 84, 84, 0.7);
+}
+
+.header__image {
+  margin-bottom: 41px;
+  width: 173px;
+  height: 33px;
+}
+
+@media screen and (max-width: 350px) {
+  .header__image {
+    margin-left: 27px;
+    margin-bottom: 32px;
+    margin-right: 168px;
+    width: 126px;
+    height: 24px;
+  }
+
+  .header {
+    margin-top: 28px;
+  }
+}
