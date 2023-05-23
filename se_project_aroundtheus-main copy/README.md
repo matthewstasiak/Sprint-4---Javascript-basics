@@ -10,4 +10,4 @@ This is the third project of software engineering program at Practicum. It was c
 - CSS
 - Responsive Webpage
 
-[Github Pages](https://github.com/matthewstasiak/Sprint-4---Javascript-basics)
+[Github Pages](https://github.com/matthewstasiak/Sprint-4---Javascript-basics.git)
